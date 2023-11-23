@@ -1,0 +1,5 @@
+ch1 gain=on -> 60dB
+ch1 gain=off -> 40dB
+ch2          -> 20 dB
+
+eq -> filtro paso alto a 300Hz
